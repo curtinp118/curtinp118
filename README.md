@@ -42,9 +42,6 @@
 </p>
 
 </td>
-<td width="40%" valign="top">
-
-</td>
   </tr>
 </table>
 
