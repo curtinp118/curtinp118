@@ -44,14 +44,6 @@
 </td>
 <td width="40%" valign="top">
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=curtinp118&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8b949e&icon_color=58A6FF&hide=stars&count_private=true" alt="Lee's Github Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curtinp118&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8b949e&langs_count=8" alt="Top Langs" />
-</div>
-
 </td>
   </tr>
 </table>
